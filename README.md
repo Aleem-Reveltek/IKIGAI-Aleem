@@ -1,4 +1,4 @@
-# IKIGAI-Aleem
+# IKIGAI
 
 ```mermaid
 graph TD
